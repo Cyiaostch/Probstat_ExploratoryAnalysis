@@ -1,0 +1,119 @@
+Gender
+P (Sample): 0.47
+95% Confidence Interval : 0.44 < P < 0.51
+99% Confidence Interval : 0.43 < P < 0.52
+
+Fashion
+P (Sample): 0.22
+95% Confidence Interval : 0.19 < P < 0.25
+99% Confidence Interval : 0.18 < P < 0.26
+
+Groceries
+P (Sample): 0.03
+95% Confidence Interval : 0.02 < P < 0.05
+99% Confidence Interval : 0.02 < P < 0.05
+
+HP
+P (Sample): 0.16
+95% Confidence Interval : 0.13 < P < 0.18
+99% Confidence Interval : 0.12 < P < 0.19
+
+PC
+P (Sample): 0.12
+95% Confidence Interval : 0.1 < P < 0.14
+99% Confidence Interval : 0.09 < P < 0.15
+
+Elektronik
+P (Sample): 0.06
+95% Confidence Interval : 0.04 < P < 0.07
+99% Confidence Interval : 0.03 < P < 0.08
+
+Kosmetik
+P (Sample): 0.24
+95% Confidence Interval : 0.21 < P < 0.27
+99% Confidence Interval : 0.2 < P < 0.28
+
+Makanan
+P (Sample): 0.32
+95% Confidence Interval : 0.29 < P < 0.36
+99% Confidence Interval : 0.28 < P < 0.37
+
+Pulsa
+P (Sample): 0.61
+95% Confidence Interval : 0.57 < P < 0.64
+99% Confidence Interval : 0.56 < P < 0.65
+
+Pesawat
+P (Sample): 0.89
+95% Confidence Interval : 0.87 < P < 0.92
+99% Confidence Interval : 0.87 < P < 0.92
+
+Kereta
+P (Sample): 0.81
+95% Confidence Interval : 0.78 < P < 0.83
+99% Confidence Interval : 0.77 < P < 0.84
+
+Hobi
+P (Sample): 0.32
+95% Confidence Interval : 0.29 < P < 0.36
+99% Confidence Interval : 0.28 < P < 0.37
+
+Hotel
+P (Sample): 0.82
+95% Confidence Interval : 0.79 < P < 0.85
+99% Confidence Interval : 0.78 < P < 0.86
+
+Konser
+P (Sample): 0.72
+95% Confidence Interval : 0.69 < P < 0.75
+99% Confidence Interval : 0.67 < P < 0.77
+
+Wisata
+P (Sample): 0.46
+95% Confidence Interval : 0.42 < P < 0.5
+99% Confidence Interval : 0.41 < P < 0.51
+
+Bioskop
+P (Sample): 0.28
+95% Confidence Interval : 0.24 < P < 0.31
+99% Confidence Interval : 0.23 < P < 0.32
+
+Kendaraan.Umum
+P (Sample): 0.86
+95% Confidence Interval : 0.84 < P < 0.89
+99% Confidence Interval : 0.83 < P < 0.89
+
+Gojek.Motor
+P (Sample): 0.85
+95% Confidence Interval : 0.83 < P < 0.88
+99% Confidence Interval : 0.82 < P < 0.89
+
+Grab.Motor
+P (Sample): 0.58
+95% Confidence Interval : 0.54 < P < 0.62
+99% Confidence Interval : 0.53 < P < 0.63
+
+Uber.Motor
+P (Sample): 0.34
+95% Confidence Interval : 0.3 < P < 0.37
+99% Confidence Interval : 0.29 < P < 0.38
+
+Gojek.Car
+P (Sample): 0.68
+95% Confidence Interval : 0.65 < P < 0.71
+99% Confidence Interval : 0.63 < P < 0.72
+
+Uber.Car
+P (Sample): 0.56
+95% Confidence Interval : 0.52 < P < 0.6
+99% Confidence Interval : 0.51 < P < 0.61
+
+Grab.Car
+P (Sample): 0.72
+95% Confidence Interval : 0.69 < P < 0.75
+99% Confidence Interval : 0.68 < P < 0.76
+
+Grab.Taxi
+P (Sample): 0.18
+95% Confidence Interval : 0.16 < P < 0.21
+99% Confidence Interval : 0.15 < P < 0.22
